@@ -1,0 +1,2088 @@
+[
+    {
+        "label": "豫",
+        "value": "豫",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            },
+            {
+                "label": "J",
+                "value": "J",
+                "children": []
+            },
+            {
+                "label": "K",
+                "value": "K",
+                "children": []
+            },
+            {
+                "label": "L",
+                "value": "L",
+                "children": []
+            },
+            {
+                "label": "M",
+                "value": "M",
+                "children": []
+            },
+            {
+                "label": "N",
+                "value": "N",
+                "children": []
+            },
+            {
+                "label": "P",
+                "value": "P",
+                "children": []
+            },
+            {
+                "label": "Q",
+                "value": "Q",
+                "children": []
+            },
+            {
+                "label": "R",
+                "value": "R",
+                "children": []
+            },
+            {
+                "label": "S",
+                "value": "S",
+                "children": []
+            },
+            {
+                "label": "U",
+                "value": "U",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "京",
+        "value": "京",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "津",
+        "value": "津",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "沪",
+        "value": "沪",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "渝",
+        "value": "渝",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "冀",
+        "value": "冀",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            },
+            {
+                "label": "J",
+                "value": "J",
+                "children": []
+            },
+            {
+                "label": "R",
+                "value": "R",
+                "children": []
+            },
+            {
+                "label": "S",
+                "value": "S",
+                "children": []
+            },
+            {
+                "label": "T",
+                "value": "T",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "云",
+        "value": "云",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            },
+            {
+                "label": "J",
+                "value": "J",
+                "children": []
+            },
+            {
+                "label": "K",
+                "value": "K",
+                "children": []
+            },
+            {
+                "label": "L",
+                "value": "L",
+                "children": []
+            },
+            {
+                "label": "M",
+                "value": "M",
+                "children": []
+            },
+            {
+                "label": "N",
+                "value": "N",
+                "children": []
+            },
+            {
+                "label": "P",
+                "value": "P",
+                "children": []
+            },
+            {
+                "label": "Q",
+                "value": "Q",
+                "children": []
+            },
+            {
+                "label": "R",
+                "value": "R",
+                "children": []
+            },
+            {
+                "label": "S",
+                "value": "S",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "辽",
+        "value": "辽",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            },
+            {
+                "label": "J",
+                "value": "J",
+                "children": []
+            },
+            {
+                "label": "K",
+                "value": "K",
+                "children": []
+            },
+            {
+                "label": "L",
+                "value": "L",
+                "children": []
+            },
+            {
+                "label": "M",
+                "value": "M",
+                "children": []
+            },
+            {
+                "label": "N",
+                "value": "N",
+                "children": []
+            },
+            {
+                "label": "P",
+                "value": "P",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "黑",
+        "value": "黑",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            },
+            {
+                "label": "J",
+                "value": "J",
+                "children": []
+            },
+            {
+                "label": "K",
+                "value": "K",
+                "children": []
+            },
+            {
+                "label": "L",
+                "value": "L",
+                "children": []
+            },
+            {
+                "label": "M",
+                "value": "M",
+                "children": []
+            },
+            {
+                "label": "N",
+                "value": "N",
+                "children": []
+            },
+            {
+                "label": "P",
+                "value": "P",
+                "children": []
+            },
+            {
+                "label": "R",
+                "value": "R",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "湘",
+        "value": "湘",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            },
+            {
+                "label": "J",
+                "value": "J",
+                "children": []
+            },
+            {
+                "label": "K",
+                "value": "K",
+                "children": []
+            },
+            {
+                "label": "L",
+                "value": "L",
+                "children": []
+            },
+            {
+                "label": "M",
+                "value": "M",
+                "children": []
+            },
+            {
+                "label": "U",
+                "value": "U",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "皖",
+        "value": "皖",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            },
+            {
+                "label": "J",
+                "value": "J",
+                "children": []
+            },
+            {
+                "label": "K",
+                "value": "K",
+                "children": []
+            },
+            {
+                "label": "L",
+                "value": "L",
+                "children": []
+            },
+            {
+                "label": "M",
+                "value": "M",
+                "children": []
+            },
+            {
+                "label": "N",
+                "value": "N",
+                "children": []
+            },
+            {
+                "label": "P",
+                "value": "P",
+                "children": []
+            },
+            {
+                "label": "Q",
+                "value": "Q",
+                "children": []
+            },
+            {
+                "label": "R",
+                "value": "R",
+                "children": []
+            },
+            {
+                "label": "S",
+                "value": "S",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "鲁",
+        "value": "鲁",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            },
+            {
+                "label": "J",
+                "value": "J",
+                "children": []
+            },
+            {
+                "label": "K",
+                "value": "K",
+                "children": []
+            },
+            {
+                "label": "L",
+                "value": "L",
+                "children": []
+            },
+            {
+                "label": "M",
+                "value": "M",
+                "children": []
+            },
+            {
+                "label": "N",
+                "value": "N",
+                "children": []
+            },
+            {
+                "label": "P",
+                "value": "P",
+                "children": []
+            },
+            {
+                "label": "Q",
+                "value": "Q",
+                "children": []
+            },
+            {
+                "label": "R",
+                "value": "R",
+                "children": []
+            },
+            {
+                "label": "S",
+                "value": "S",
+                "children": []
+            },
+            {
+                "label": "U",
+                "value": "U",
+                "children": []
+            },
+            {
+                "label": "V",
+                "value": "V",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "新",
+        "value": "新",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            },
+            {
+                "label": "J",
+                "value": "J",
+                "children": []
+            },
+            {
+                "label": "K",
+                "value": "K",
+                "children": []
+            },
+            {
+                "label": "L",
+                "value": "L",
+                "children": []
+            },
+            {
+                "label": "M",
+                "value": "M",
+                "children": []
+            },
+            {
+                "label": "N",
+                "value": "N",
+                "children": []
+            },
+            {
+                "label": "P",
+                "value": "P",
+                "children": []
+            },
+            {
+                "label": "Q",
+                "value": "Q",
+                "children": []
+            },
+            {
+                "label": "R",
+                "value": "R",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "苏",
+        "value": "苏",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            },
+            {
+                "label": "J",
+                "value": "J",
+                "children": []
+            },
+            {
+                "label": "K",
+                "value": "K",
+                "children": []
+            },
+            {
+                "label": "L",
+                "value": "L",
+                "children": []
+            },
+            {
+                "label": "M",
+                "value": "M",
+                "children": []
+            },
+            {
+                "label": "N",
+                "value": "N",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "浙",
+        "value": "浙",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            },
+            {
+                "label": "J",
+                "value": "J",
+                "children": []
+            },
+            {
+                "label": "K",
+                "value": "K",
+                "children": []
+            },
+            {
+                "label": "L",
+                "value": "L",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "赣",
+        "value": "赣",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            },
+            {
+                "label": "J",
+                "value": "J",
+                "children": []
+            },
+            {
+                "label": "K",
+                "value": "K",
+                "children": []
+            },
+            {
+                "label": "L",
+                "value": "L",
+                "children": []
+            },
+            {
+                "label": "M",
+                "value": "M",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "鄂",
+        "value": "鄂",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            },
+            {
+                "label": "J",
+                "value": "J",
+                "children": []
+            },
+            {
+                "label": "K",
+                "value": "K",
+                "children": []
+            },
+            {
+                "label": "L",
+                "value": "L",
+                "children": []
+            },
+            {
+                "label": "M",
+                "value": "M",
+                "children": []
+            },
+            {
+                "label": "N",
+                "value": "N",
+                "children": []
+            },
+            {
+                "label": "P",
+                "value": "P",
+                "children": []
+            },
+            {
+                "label": "Q",
+                "value": "Q",
+                "children": []
+            },
+            {
+                "label": "R",
+                "value": "R",
+                "children": []
+            },
+            {
+                "label": "S",
+                "value": "S",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "桂",
+        "value": "桂",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            },
+            {
+                "label": "J",
+                "value": "J",
+                "children": []
+            },
+            {
+                "label": "K",
+                "value": "K",
+                "children": []
+            },
+            {
+                "label": "L",
+                "value": "L",
+                "children": []
+            },
+            {
+                "label": "M",
+                "value": "M",
+                "children": []
+            },
+            {
+                "label": "N",
+                "value": "N",
+                "children": []
+            },
+            {
+                "label": "P",
+                "value": "P",
+                "children": []
+            },
+            {
+                "label": "R",
+                "value": "R",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "甘",
+        "value": "甘",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            },
+            {
+                "label": "J",
+                "value": "J",
+                "children": []
+            },
+            {
+                "label": "K",
+                "value": "K",
+                "children": []
+            },
+            {
+                "label": "L",
+                "value": "L",
+                "children": []
+            },
+            {
+                "label": "M",
+                "value": "M",
+                "children": []
+            },
+            {
+                "label": "N",
+                "value": "N",
+                "children": []
+            },
+            {
+                "label": "P",
+                "value": "P",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "晋",
+        "value": "晋",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            },
+            {
+                "label": "J",
+                "value": "J",
+                "children": []
+            },
+            {
+                "label": "K",
+                "value": "K",
+                "children": []
+            },
+            {
+                "label": "L",
+                "value": "L",
+                "children": []
+            },
+            {
+                "label": "M",
+                "value": "M",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "蒙",
+        "value": "蒙",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            },
+            {
+                "label": "J",
+                "value": "J",
+                "children": []
+            },
+            {
+                "label": "K",
+                "value": "K",
+                "children": []
+            },
+            {
+                "label": "L",
+                "value": "L",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "陕",
+        "value": "陕",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            },
+            {
+                "label": "J",
+                "value": "J",
+                "children": []
+            },
+            {
+                "label": "K",
+                "value": "K",
+                "children": []
+            },
+            {
+                "label": "V",
+                "value": "V",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "吉",
+        "value": "吉",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            },
+            {
+                "label": "J",
+                "value": "J",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "闽",
+        "value": "闽",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            },
+            {
+                "label": "J",
+                "value": "J",
+                "children": []
+            },
+            {
+                "label": "K",
+                "value": "K",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "贵",
+        "value": "贵",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            },
+            {
+                "label": "J",
+                "value": "J",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "粤",
+        "value": "粤",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            },
+            {
+                "label": "J",
+                "value": "J",
+                "children": []
+            },
+            {
+                "label": "K",
+                "value": "K",
+                "children": []
+            },
+            {
+                "label": "L",
+                "value": "L",
+                "children": []
+            },
+            {
+                "label": "M",
+                "value": "M",
+                "children": []
+            },
+            {
+                "label": "N",
+                "value": "N",
+                "children": []
+            },
+            {
+                "label": "P",
+                "value": "P",
+                "children": []
+            },
+            {
+                "label": "Q",
+                "value": "Q",
+                "children": []
+            },
+            {
+                "label": "R",
+                "value": "R",
+                "children": []
+            },
+            {
+                "label": "S",
+                "value": "S",
+                "children": []
+            },
+            {
+                "label": "T",
+                "value": "T",
+                "children": []
+            },
+            {
+                "label": "U",
+                "value": "U",
+                "children": []
+            },
+            {
+                "label": "V",
+                "value": "V",
+                "children": []
+            },
+            {
+                "label": "W",
+                "value": "W",
+                "children": []
+            },
+            {
+                "label": "X",
+                "value": "X",
+                "children": []
+            },
+            {
+                "label": "Y",
+                "value": "Y",
+                "children": []
+            },
+            {
+                "label": "Z",
+                "value": "Z",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "青",
+        "value": "青",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "藏",
+        "value": "藏",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            },
+            {
+                "label": "J",
+                "value": "J",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "川",
+        "value": "川",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            },
+            {
+                "label": "F",
+                "value": "F",
+                "children": []
+            },
+            {
+                "label": "G",
+                "value": "G",
+                "children": []
+            },
+            {
+                "label": "H",
+                "value": "H",
+                "children": []
+            },
+            {
+                "label": "J",
+                "value": "J",
+                "children": []
+            },
+            {
+                "label": "K",
+                "value": "K",
+                "children": []
+            },
+            {
+                "label": "L",
+                "value": "L",
+                "children": []
+            },
+            {
+                "label": "M",
+                "value": "M",
+                "children": []
+            },
+            {
+                "label": "N",
+                "value": "N",
+                "children": []
+            },
+            {
+                "label": "P",
+                "value": "P",
+                "children": []
+            },
+            {
+                "label": "Q",
+                "value": "Q",
+                "children": []
+            },
+            {
+                "label": "R",
+                "value": "R",
+                "children": []
+            },
+            {
+                "label": "S",
+                "value": "S",
+                "children": []
+            },
+            {
+                "label": "T",
+                "value": "T",
+                "children": []
+            },
+            {
+                "label": "U",
+                "value": "U",
+                "children": []
+            },
+            {
+                "label": "V",
+                "value": "V",
+                "children": []
+            },
+            {
+                "label": "W",
+                "value": "W",
+                "children": []
+            },
+            {
+                "label": "X",
+                "value": "X",
+                "children": []
+            },
+            {
+                "label": "Y",
+                "value": "Y",
+                "children": []
+            },
+            {
+                "label": "Z",
+                "value": "Z",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "宁",
+        "value": "宁",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            }
+        ]
+    },
+    {
+        "label": "琼",
+        "value": "琼",
+        "children": [
+            {
+                "label": "A",
+                "value": "A",
+                "children": []
+            },
+            {
+                "label": "B",
+                "value": "B",
+                "children": []
+            },
+            {
+                "label": "C",
+                "value": "C",
+                "children": []
+            },
+            {
+                "label": "D",
+                "value": "D",
+                "children": []
+            },
+            {
+                "label": "E",
+                "value": "E",
+                "children": []
+            }
+        ]
+    }
+]
